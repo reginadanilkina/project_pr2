@@ -1,2 +1,3 @@
 # project_pr2
-функции_задание
+функции задание
+http://z756.pautinaweb.ru/practic2/
